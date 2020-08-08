@@ -1,0 +1,60 @@
+{
+    "books": [
+      {
+        "id": "9781593275846",
+        "title": "Eloquent JavaScript, Second Edition",
+        "category": "Programming",
+        "author": "Marijn Haverbeke",
+        "rack": "1"
+      },
+      {
+        "id": "9781449331818",
+        "title": "Learning JavaScript Design Patterns",
+        "category": "Programming",
+        "author": "Addy Osmani",
+        "rack": "1"
+      },
+      {
+        "id": "9781449365035",
+        "title": "Speaking JavaScript",
+        "category": "Programming",
+        "author": "Axel Rauschmayer",
+        "rack": "2"
+      },
+      {
+        "id": "9781491950296",
+        "title": "Programming JavaScript Applications",
+        "category": "Javascript",
+        "author": "Eric Elliott",
+        "rack": "1"
+      },
+      {
+        "id": "9781593277574",
+        "title": "Understanding ECMAScript 6",
+        "category": "ES6",
+        "author": "Nicholas C. Zakas",
+        "rack": "2"
+      },
+      {
+        "id": "9781491904244",
+        "title": "You Dont Know JS",
+        "category": "ES6",
+        "author": "Kyle Simpson",
+        "rack": "2"
+      },
+      {
+        "id": "9781449325862",
+        "title": "Git Pocket Guide",
+        "category": "Programming",
+        "author": "Richard E. Silverman",
+        "rack": "1"
+      },
+      {
+        "id": "9781449337711",
+        "title": "Designing Evolvable Web APIs with ASP.NET",
+        "category": "Programming",
+        "author": "Glenn Block, et al.",
+        "rack": "2"
+      }
+    ]
+  }
